@@ -1,2 +1,2 @@
 # python_yandex_practicum
-Final django project (module 1 Python course Yandex.Practicum)
+Финальный django проект (модуль 1 Python курс Яндекс.Практикум)
